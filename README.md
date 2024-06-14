@@ -1,4 +1,4 @@
-# ![Force Homepage Icon](/icons/icon-128-png) Force Homepage - Chrome Extension
+# ![Force Homepage Icon](/icons/icon-128.png) Force Homepage - Chrome Extension
 
 This simple Chrome Extension forces the New Tab page as the homepage in browsers managed by organizations.
 
